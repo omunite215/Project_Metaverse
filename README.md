@@ -28,13 +28,13 @@ Javascript, HTML, CSS, Next.JS, framermotion and Tailwind.
 1. Clone the repository to your local machine
 
 ```bash
-  git clone https://github.com/omunite215/metaverse.git
+  git clone https://github.com/omunite215/Metaverse.git
 
 ```
 2. Navigate to the project directory
 
 ```bash
-  cd metaverse
+  cd Metaverse
 ```
 3. Install the necessary dependencies
 ```bash
