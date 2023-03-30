@@ -5,7 +5,7 @@ This is my first project using Next.Js
 
 A website which is a product page of a Metaverse displaying its products features, clients , feedbacks and many more.
 
-This Project is hosted in Netlify : [Metaverse](https://hoobankbyom.netlify.app/)
+This Project is hosted in Netlify : [Metaverse](https://omsmetaverse.netlify.app/)
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
