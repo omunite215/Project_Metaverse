@@ -66,7 +66,7 @@ The website should now be up and running on http://localhost:3000.
 
 ## Tech Stack
 
-**Client:** Next.JS, React, Redux, Tailwind, Framermotion
+**Client:** Next.JS, React, Tailwind, Framermotion
 
 **Server:** Netlify
 
