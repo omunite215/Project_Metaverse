@@ -1,36 +1,117 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Project Metaversus - A Metaverse UI/UX Landing Page using Next.JS and TailwindCSS
 
-## Getting Started
+![image](https://github.com/omunite215/Project_Metaverse/assets/78680563/8a8bd774-28af-4daa-9efc-632a8b7e8f5a)
 
-First, run the development server:
+
+This was made using Next.JS JavaScript. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/ugCN_gynFYw?feature=shared). Now it is made on using TypeScript.
+Features added other than Tutorial:-
+- Upgraded from Node.JS to Bun.JS (A Faster JavaScript Runtime).
+- Upgraded from JavaScript to TypeScript.
+- Added Fluid Animations using Framer-Motion.
+- Removed unused CSS and Optimized Code.
+
+### Link to Figma File:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <a href="https://www.figma.com/file/7Fujh1tSEZkjzVb2QQtYHx/Modern-UI_UX-Framer-Motion?type=design&mode=design&t=rT9oaMgjutfRKkY0-1">
+      <img src="https://skillicons.dev/icons?i=figma" />
+    </a>
+  </a>
+</p>
+
+A website which is a Landing Page of a Metaverse based Business.
+
+### The project is hosted on Vercel : [Metaversus](https://project-metaverse-beta.vercel.app/)
+
+## :star: Give A Star
+
+You can also give this repository a star to show more people and they can use this repository.
+
+# Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+Prerequisites
+Before you start, make sure you have the following software installed on your computer:
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
+
+## ℹ️ How to use this Repository?
+
+1. Clone the repository to your local machine
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+  git clone https://github.com/omunite215/Project_Metaverse.git
+
+```
+2. Navigate to the project directory
+
+```bash
+  cd Project_Metaverse
+```
+3. Install the necessary dependencies
+```bash
+  npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Start the development server
+```bash
+  npm start
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The website should now be up and running on http://localhost:3000.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 🏠 Built With:
 
-## Learn More
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,vscode,vercel)](https://skillicons.dev)
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠 Skills
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,figma)](https://skillicons.dev)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🚀 About Me
+Specializations:
+- UI/UX Design.
+- Web Development
 
-## Deploy on Vercel
+## 🙋‍♂️ Connect With Me
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <a href="https://github.com/omunite215">
+      <img src="https://skillicons.dev/icons?i=github" />
+    </a>
+  </a>
+   <a href="https://skillicons.dev">
+    <a href="https://www.linkedin.com/in/om-patel-401068143/">
+      <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+  </a>
+  <a href="https://skillicons.dev">
+    <a href="https://www.instagram.com/_21omp/">
+      <img src="https://skillicons.dev/icons?i=instagram" />
+    </a>
+  </a>
+   <a href="https://skillicons.dev">
+    <a href="https://portfoliobyom.netlify.app/">
+      <img src="https://skillicons.dev/icons?i=devto" />
+    </a>
+  </a>
+</p>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🗒️ Authors
+- Om Patel
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <a href="https://github.com/omunite215">
+      <img src="https://skillicons.dev/icons?i=github" />
+    </a>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/omunite215/Project_Metaverse/assets/78680563/b3925613-ceaf-4c40-beb2-582f3dfb469a" alt="Om's Logo Image"/>
+</p>

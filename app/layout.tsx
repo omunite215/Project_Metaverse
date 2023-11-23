@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import "./styles/globals.css";
+import "./styles/font.css";
+
 
 export const metadata: Metadata = {
   title: "Metaversus",
@@ -14,11 +15,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <Link rel="preconnect" href="https://stijndv.com" />
-      <Link
-        rel="stylesheet"
-        href="https://stijndv.com/fonts/Eudoxus-Sans.css"
-      />
       <body>{children}</body>
     </html>
   );

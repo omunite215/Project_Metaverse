@@ -4,7 +4,7 @@ type StartStepsProps = {
 };
 
 const StartSteps = ({ number, text }: StartStepsProps) => (
-  <div className="flexCenter flex-row">
+  <div className="flexCenter">
     <div className="flexCenter w-[70px] h-[70px] rounded-[24px] bg-[#323F5D]">
       <p className="font-bold text-[20px] text-white">0{number}</p>
     </div>

@@ -28,26 +28,25 @@ const About = () => (
         metaverse world, because this is really the&nbsp;
         <span className="font-extrabold text-white">
           madness of the metaverse
-        </span>{" "}
-        of today, using only&nbsp;
+        </span>
+        &nbsp; of today, using only&nbsp;
         <span className="font-extrabold text-white">VR</span> devices you can
         easily explore the metaverse world you want, turn your dreams into
         reality. Let&lsquo;s&nbsp;
         <span className="font-extrabold text-white">explore</span> the madness
         of the metaverse by scrolling down
       </motion.p>
-
-      <Link href="#explore">
-        <motion.div variants={fadeIn("up", "tween", 0.3, 1)}>
+      <motion.div variants={fadeIn("up", "tween", 0.3, 1)}>
+        <Link href="#explore">
           <Image
             src="/arrow-down.svg"
             width={18}
             height={28}
             alt="arrow down"
-            className="w-[18px] h-[28px] object-contain mt-[28px]"
+            className="object-contain mt-[28px]"
           />
-        </motion.div>
-      </Link>
+        </Link>
+      </motion.div>
     </motion.div>
   </section>
 );

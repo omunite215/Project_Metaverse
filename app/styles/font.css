@@ -1,0 +1,50 @@
+@font-face {
+  font-family: eudoxus sans;
+  src: url(https://stijndv.com/fonts/EudoxusSans-Bold.woff2) format("woff2"),
+    url(https://stijndv.com/fonts/EudoxusSans-Bold.woff) format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: eudoxus sans;
+  src: url(https://stijndv.com/fonts/EudoxusSans-Regular.woff2) format("woff2"),
+    url(https://stijndv.com/fonts/EudoxusSans-Regular.woff) format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: eudoxus sans;
+  src: url(https://stijndv.com/fonts/EudoxusSans-Light.woff2) format("woff2"),
+    url(https://stijndv.com/fonts/EudoxusSans-Light.woff) format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: eudoxus sans;
+  src: url(https://stijndv.com/fonts/EudoxusSans-ExtraBold.woff2)
+      format("woff2"),
+    url(https://stijndv.com/fonts/EudoxusSans-ExtraBold.woff) format("woff");
+  font-weight: 800;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: eudoxus sans;
+  src: url(https://stijndv.com/fonts/EudoxusSans-ExtraLight.woff2)
+      format("woff2"),
+    url(https://stijndv.com/fonts/EudoxusSans-ExtraLight.woff) format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: eudoxus sans;
+  src: url(https://stijndv.com/fonts/EudoxusSans-Medium.woff2) format("woff2"),
+    url(https://stijndv.com/fonts/EudoxusSans-Medium.woff) format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+}
