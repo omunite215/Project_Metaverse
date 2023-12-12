@@ -1,4 +1,4 @@
-# Project Metaversus - A Metaverse UI/UX Landing Page using Next.JS and TailwindCSS
+# Project Metaversus - A Metaverse UI/UX Landing Page
 
 ![image](https://github.com/omunite215/Project_Metaverse/assets/78680563/8a8bd774-28af-4daa-9efc-632a8b7e8f5a)
 
